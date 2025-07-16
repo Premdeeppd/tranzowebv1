@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Leh-Ladakh Adventure",
+    "description": "Explore the majestic landscapes of Leh-Ladakh. Thrilling high-altitude deserts, Buddhist monasteries, and scenic lakes await every adventure lover.",
+    "date": "16 Sep 2025",
+    "duration": "7 days",
+    "price": "INR 32,000",
+    "joined": 9,
+    "capacity": 14,
+    "tags": ["Adventure", "Mountains", "Biking"],
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=450&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Rishikesh River Retreat",
+    "description": "Experience the spiritual heart of India. Enjoy serene yoga retreats, vibrant Ganga aarti, and white-water rafting.",
+    "date": "9 Oct 2025",
+    "duration": "5 days",
+    "price": "INR 18,500",
+    "joined": 7,
+    "capacity": 12,
+    "tags": ["Spiritual", "Rafting", "Yoga"],
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=450&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Pink City Jaipur",
+    "description": "Discover royal palaces, vibrant bazaars, and impressive forts in Rajasthan’s historic capital.",
+    "date": "12 Nov 2025",
+    "duration": "4 days",
+    "price": "INR 14,000",
+    "joined": 10,
+    "capacity": 15,
+    "tags": ["Heritage", "Culture", "Palaces"],
+    "image": "https://images.unsplash.com/photo-1501621667571-7c1ae07d7a6c?auto=format&fit=crop&w=450&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Goa Beach Escape",
+    "description": "Relax on sun-kissed beaches, enjoy vibrant nightlife, and explore the coastal charm of Goa.",
+    "date": "26 Dec 2025",
+    "duration": "6 days",
+    "price": "INR 19,750",
+    "joined": 11,
+    "capacity": 16,
+    "tags": ["Beaches", "Nightlife", "Relaxation"],
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=450&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Taj Mahal & Agra Fort",
+    "description": "Marvel at the iconic Taj Mahal and nearby Agra Fort. A UNESCO World Heritage duo of love and Mughal grandeur.",
+    "date": "22 Jan 2026",
+    "duration": "3 days",
+    "price": "INR 11,500",
+    "joined": 8,
+    "capacity": 12,
+    "tags": ["Heritage", "Architecture", "History"],
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=450&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Varanasi Spiritual Walk",
+    "description": "Wander the ghats of the world’s oldest city. Witness Ganga aarti and discover the depth of Indian spirituality.",
+    "date": "2 Feb 2026",
+    "duration": "4 days",
+    "price": "INR 13,000",
+    "joined": 5,
+    "capacity": 10,
+    "tags": ["Spiritual", "Ghats", "Culture"],
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=450&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Kerala Backwaters Bliss",
+    "description": "Drift on a houseboat through Kerala’s tranquil backwaters. Immerse yourself in vibrant culture and lush green scenery.",
+    "date": "14 Mar 2026",
+    "duration": "5 days",
+    "price": "INR 15,500",
+    "joined": 7,
+    "capacity": 10,
+    "tags": ["Backwaters", "Houseboat", "Nature"],
+    "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=450&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Udaipur Lakes & Palaces",
+    "description": "Sail across Lake Pichola, explore glittering palaces, and enjoy the romance of Udaipur, India’s ‘City of Lakes’.",
+    "date": "28 Mar 2026",
+    "duration": "3 days",
+    "price": "INR 17,000",
+    "joined": 6,
+    "capacity": 12,
+    "tags": ["Romantic", "Lakes", "Palaces"],
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=450&q=80"
+  }
+]

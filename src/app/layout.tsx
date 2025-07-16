@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-
+import { ChakraProvider } from '@chakra-ui/react'
 
 export const metadata: Metadata = {
   title: "Tranzo",
@@ -16,7 +16,9 @@ export default function RootLayout({
     <html lang="en">
       
       <body>
-        {children}
+        <ChakraProvider>
+          {children}
+        </ChakraProvider>
       </body>
     </html>
   );
